@@ -1,0 +1,6 @@
+D:\project\WebTes\WebTes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\WebTes\WebTes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\WebTes\WebTes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\WebTes\WebTes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\WebTes\WebTes\bin\roslyn\System.IO.Compression.dll
+D:\project\WebTes\WebTes\bin\roslyn\VBCSCompiler.exe
